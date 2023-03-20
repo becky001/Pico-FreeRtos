@@ -1,5 +1,5 @@
 # Pico-FreeRtos
-Raspberry Pi Pico Project with FreeRtos and VisualGDB
+Raspberry Pi Pico Project with FreeRtos and VisualGDB (Work in Progress)
 
 To start programming in C on the Raspberry Pi Pico, don't waste your time onDe youtube watching
 videos on how to get started.
