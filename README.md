@@ -10,7 +10,6 @@ Skills for this project:
 - Amazon AWS FreeRtos
 - IoT communications
 - Interfacing with real world devices
-- Amazon AWS
 
 
 ![](pico_system.png)
